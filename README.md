@@ -1,6 +1,6 @@
 # HTML-CSS
 
-<p align="center"> <img width="80%" src="https://www.awdev.my.id/favicon.png"></img>
+<p align="center"> <img width="80%" src="https://www.awdev.my.id/favicon.png"/>
 <br/><br/>
     Learn HTML CSS is the easiest, most interactive way to learn & practice modern HTML and CSS online. Learn in an interactive environment.</center>
  </p>
