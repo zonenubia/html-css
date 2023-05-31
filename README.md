@@ -71,6 +71,7 @@ Semua _script_ yang ada pada repositori ini, dapat diakses dengan cepat lewat li
 
 ### :orange_book: CSS
 
+- [Introduction](CSS/001%20CSS%20Introduction/)
 - [Basic](CSS/002%20CSS%20Basic/)
 - [Syntax](CSS/003%20CSS%20Syntax/)
 - [Selectors](CSS/004%20CSS%20Selectors/)
