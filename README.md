@@ -2,7 +2,7 @@
 
 <p align="center"> <img width="80%" src="https://www.awdev.my.id/favicon.png"/>
 <br/><br/>
-    Learn HTML CSS is the easiest, most interactive way to learn & practice modern HTML and CSS online. Learn in an interactive environment.</center>
+    Learn HTML CSS is the easiest, most interactive way to learn & practice modern HTML and CSS online. Learn in an interactive environment.
  </p>
 
 
@@ -117,3 +117,11 @@ Semua _script_ yang ada pada repositori ini, dapat diakses dengan cepat lewat li
 - [Grid](CSS/057%20CSS%20Grid/)
 - [Animation](CSS/058%20CSS%20Animation/)
 
+
+# Publisher 
+
+Devoloper : [@AWDEV](https://www.awdev.my.id)
+
+Release : JANUARI 2023
+
+TITLE : [HTML - CSS ( Learn HTML CSS - DASAR PEMOGRAMAN WEBSITE )](https://zonenubia.github.io/html-css)
