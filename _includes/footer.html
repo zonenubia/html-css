@@ -1,37 +1,35 @@
-<footer class="site-footer h-card">
-  <data class="u-url" href="{{ "/" | relative_url }}"></data>
+<meta charset=“utf-8”>
+<meta name=“viewport” content=“width=device-width”>
+<link rel=“stylesheet” href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.css“>
+<link href=”https://fonts.googleapis.com/css?family=Raleway|Rubik:400" rel=“stylesheet”>
+<link rel=“stylesheet” type=“text/css” href=“main.css”>
+<title>Header and Footer</title>
+<style type="text/css">
+html {
+  scroll-behavior: smooth;
+}
+body {
+	background: #1b1331;
+	color: #ffffff;
+	}
+footer {
+    font-size: 1rm;
+	background: #1b1331;
+	color: #ffffff;
+	text-align: center;
+}
 
-  <div class="wrapper">
-
-    <div class="footer-col-wrapper">
-      <div class="footer-col">
-        <p class="feed-subscribe">
-          <a href="{{ site.feed.path | default: 'feed.xml' | absolute_url }}">
-            <svg class="svg-icon orange">
-              <use xlink:href="{{ 'assets/minima-social-icons.svg#rss' | relative_url }}"></use>
-            </svg><span>Subscribe</span>
-          </a>
-        </p>
-      {%- if site.author %}
-        <ul class="contact-list">
-          {% if site.author.name -%}
-            <li class="p-name">{{ site.author.name | escape }}</li>
-          {% endif -%}
-          {% if site.author.email -%}
-            <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
-          {%- endif %}
-        </ul>
-      {%- endif %}
-      </div>
-      <div class="footer-col">
-        <p>{{ site.description | escape }}</p>
-      </div>
-    </div>
-
-    <div class="social-links">
-      {%- include social.html -%}
-    </div>
-
-  </div>
-
+</style>
+</header>
+<footer>
+<h1>AWDEV - Learn HTML CSS</h1>
+<p><a href="https://go.awdev.my.id/2023/05/html.html?m=1" >HTML BASIC - 1 Jam Mahir HTML Lengkap dengan Contohnya!</a></p>
+<div class=“wrapper”>
+<small>AWDEV ©2019 <strong>Awesome Company</strong>, All Rights Reserved</small>
+<nav class=“footer-nav”>
+<a href="https://www.awdev.my.id/html-css/">Back to Top</a>
+<a href="https://www.awdev.my.id/faq.html">Faq</a>
+<a href="https://www.awdev.my.id/privasy.html">Privacy</a>
+</nav>
+</div>
 </footer>
